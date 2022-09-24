@@ -1,5 +1,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
+import os
+
 from jinja2 import Environment, FileSystemLoader
 
 LISTVERSIONADDED = "3.20"

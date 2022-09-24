@@ -9,6 +9,7 @@ class SPDXLicense:
         super (SPDXLicense, self).__init__()
 
         self._id = ""
+        self._origID = ""
         self._name = ""
 
 class LDBLicense:
@@ -22,7 +23,13 @@ class LDBLicense:
         self._name = ""
         self._text = ""
         self._category = ""
+        self._text_urls = []
         self._spdx_license_key = ""
+        self._osi_license_key = ""
 
         # analyzed later
         self._is_spdx = False
+        self._is_exception = False
+        self._is_osi = False
+        self._spdx_chosen_id = ""
+        self._text_processed = ""

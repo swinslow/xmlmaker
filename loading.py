@@ -17,6 +17,7 @@ def loadSPDXLicenseList(licensesFilename, exceptionsFilename):
                 # record all-lowercase ID to mirror scancode-licensedb
                 origID = lic.get("licenseId", None)
                 l._id = origID.lower()
+                l._origID = origID
                 l._name = lic.get("name", None)
                 if not l._id:
                     print(f"Error: missing licenseId for {l._name}")
@@ -69,7 +70,7 @@ def loadLDBLicenseList(ldbDocsDir):
         ltextfile = os.path.join(ldbDocsDir, lkey + ".LICENSE")
         try:
             with open(ltextfile, "r") as f:
-                lic._text = f.read()
+                lic._text = f.read().strip()
         except OSError as e:
             print(f"Error loading or reading {ltextfile}: {str(e)}")
             return {}
@@ -89,7 +90,9 @@ def loadLDBLicenseList(ldbDocsDir):
                 # looks good, read other values
                 lic._name = js.get("name", "")
                 lic._category = js.get("category", "")
+                lic._text_urls = js.get("text_urls", [])
                 lic._spdx_license_key = js.get("spdx_license_key", "")
+                lic._osi_license_key = js.get("osi_license_key", "")
 
                 ldbLicenses[lic._key] = lic
 

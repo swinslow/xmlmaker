@@ -4,7 +4,7 @@
 		name="{{ lic._name }}"
 		isOsiApproved="false"
 		listVersionAdded="{{ listVersionAdded }}">
-		{% if lic._text_urls is true %}
+		{% if lic._text_urls %}
 		<crossRefs>
 			{% for text_url in lic._text_urls %}
 			<crossRef>{{ text_url }}</crossRef>

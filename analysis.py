@@ -5,6 +5,8 @@ def analyzeLDBLics(ldbLicenses, spdxLicenses):
 
     for lic in ldbLicenses.values():
         if lic._spdx_license_key.startswith("LicenseRef-"):
+            # FIXME need to omit licenses from proprietary category
+
             # FIXME validate that it actually is not yet on SPDX list
             lic._is_spdx = False
             if "exception" in lic._spdx_license_key.lower():

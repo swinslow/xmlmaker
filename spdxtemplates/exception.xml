@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<exception licenseId="{{ lic._spdx_chosen_id }}"
+		name="{{ lic._name }}"
+		listVersionAdded="{{ listVersionAdded }}">
+		{% if lic._text_urls is true %}
+		<crossRefs>
+			{% for text_url in lic._text_urls %}
+			<crossRef>{{ text_url }}</crossRef>
+			{% endfor %}
+		</crossRefs>
+		{% endif %}
+		<text>
+			<p>
+			{{ lic._text_processed }}
+			</p>
+		</text>
+	</exception>
+</SPDXLicenseCollection>

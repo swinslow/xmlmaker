@@ -16,9 +16,11 @@ def makeTemplates(ldbLicenses):
     licTemplate = env.get_template("license.xml")
     excTemplate = env.get_template("exception.xml")
 
-    # FIXME === testing ===
-    lic = ldbLicenses.get("3com-microcode", None)
-    renderLicense(licTemplate, excTemplate, lic)
+    for lic in ldbLicenses.values():
+        retval = renderLicense(licTemplate, excTemplate, lic)
+        if not retval:
+            return False
+
     return True
 
 def renderLicense(licTemplate, excTemplate, lic):

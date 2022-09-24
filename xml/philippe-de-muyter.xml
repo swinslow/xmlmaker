@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="philippe-de-muyter"
+		name="Philippe De Muyter License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			This program is distributed in the hope that it will be useful, but WITHOUT
+			ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+			FITNESS FOR A PARTICULAR PURPOSE.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

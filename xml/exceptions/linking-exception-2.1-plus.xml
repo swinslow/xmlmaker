@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<exception licenseId="linking-exception-2.1-plus"
+		name="Linking exception to LGPL 2.1 or later"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			As a special exception, if you link the code in this file with
+			files compiled with a GNU compiler to produce an executable,
+			that does not cause the resulting executable to be covered by
+			the GNU Lesser General Public License.  This exception does not
+			however invalidate any other reasons why the executable file
+			might be covered by the GNU Lesser General Public License.
+			This exception applies to code released by its copyright holders
+			in files containing the exception.
+			</p>
+		</text>
+	</exception>
+</SPDXLicenseCollection>

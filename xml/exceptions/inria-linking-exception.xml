@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<exception licenseId="inria-linking-exception"
+		name="INRIA Linking Exception to QPL 1.0"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			As a special exception to the Q Public Licence, you may develop
+			application programs, reusable components and other software items
+			that link with the original or modified versions of the Software
+			and are not made available to the general public, without any of the
+			additional requirements listed in clause 6c of the Q Public licence.
+			</p>
+		</text>
+	</exception>
+</SPDXLicenseCollection>

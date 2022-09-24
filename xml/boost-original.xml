@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="boost-original"
+		name="Boost Original"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>https://github.com/boostorg/rational/blob/0fe0beca5397c812c4f85a7de0d0769de59e12e0/include/boost/rational.hpp</crossRef>
+			
+			<crossRef>https://github.com/boostorg/rational/blob/develop/include/boost/rational.hpp</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			Permission to copy, use, modify, sell and distribute this software is granted
+			provided this copyright notice appears in all copies. This software is provided "as
+			is" without express or implied warranty, and with no claim as to its suitability for
+			any purpose.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

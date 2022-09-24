@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="matthew-kwan"
+		name="Matthew Kwan License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>http://www.darkside.com.au/bitslice/sboxes.c</crossRef>
+			
+			<crossRef>http://www.darkside.com.au/bitslice/nonstd.c</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			This software may be modified, redistributed, and used for any purpose,
+			so long as its origin is acknowledged.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

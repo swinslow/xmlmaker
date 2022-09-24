@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="nortel-dasa"
+		name="Nortel DASA License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Nortel DASA License
+			</p>
+			<p>
+			Created by F.Schnekenbuehl <frank@comsys.dofn.de> from clk_rcc8000.c
+			Nortel DASA Network Systems GmbH, Department: ND250
+			A Joint venture of Daimler-Benz Aerospace and Nortel
+			</p>
+			<p>
+			This program is distributed in the hope that it will be useful,
+			but WITHOUT ANY WARRANTY; without even the implied warranty of
+			MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="planet-source-code"
+		name="Planet Source Code License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Terms of Agreement:   
+			By using this code, you agree to the following terms...   
+			</p>
+			<p>
+			You may use this code in your own programs (and may compile it into a program and distribute it in compiled format for languages that allow it) freely and with no charge.
+			</p>
+			<p>
+			You MAY NOT redistribute this code (for example to a web site) without written permission from the original author. Failure to do so is a violation of copyright laws.   
+			</p>
+			<p>
+			You may link to this code from another website, but ONLY if it is not wrapped in a frame.
+			</p>
+			<p>
+			You will abide by any additional copyright restrictions which the author may have placed in the code or code's description.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="manfred-klein-fonts-tos"
+		name="Manfred Klein Fonts TOS"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Simple Terms of Use
+			Manfred’s fonts are free for private and charity use. They are even free for commercial use – but if there’s any profit, pls make a donation to organizations like Doctors Without Borders.
+			</p>
+			<p>
+			These fonts can NOT be included in any compilation CDs, disks or products, either commercial or shareware unless prior permission granted.
+			</p>
+			<p>
+			All typefaces were created by Manfred Klein 2001-2008.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

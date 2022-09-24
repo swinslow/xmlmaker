@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="patent-disclaimer"
+		name="Generic patent disclaimer"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

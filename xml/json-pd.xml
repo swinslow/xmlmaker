@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="json-pd"
+		name="JSON Public Domain Notice"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Public Domain.
+			</p>
+			<p>
+			 NO WARRANTY EXPRESSED OR IMPLIED. USE AT YOUR OWN RISK.
+			</p>
+			<p>
+			 See http://www.JSON.org/js.html
+			</p>
+			<p>
+			This code should be minified before deployment.
+			See http://javascript.crockford.com/jsmin.html
+			</p>
+			<p>
+			USE YOUR OWN COPY. IT IS EXTREMELY UNWISE TO LOAD CODE FROM SERVERS YOU DO NOT CONTROL.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

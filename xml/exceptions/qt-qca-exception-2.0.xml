@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<exception licenseId="qt-qca-exception-2.0"
+		name="Qt-QCA exception to GPL 2.0"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			As a special exception, the copyright holder(s) give permission to link
+			this program with the Qt Library (commercial or non-commercial edition),
+			and distribute the resulting executable, without including the source
+			code for the Qt library in the source distribution.
+			</p>
+			<p>
+			As a special exception, the copyright holder(s) give permission to link
+			this program with any other library, and distribute the resulting
+			executable, without including the source code for the library in the
+			source distribution, provided that the library interfaces with this
+			program only via the following plugin interfaces:
+			</p>
+			<p>
+			1. The Qt Plugin APIs, only as authored by Trolltech
+			2. The QCA Plugin API, only as authored by Justin Karneges
+			</p>
+		</text>
+	</exception>
+</SPDXLicenseCollection>

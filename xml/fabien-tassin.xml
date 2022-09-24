@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="fabien-tassin"
+		name="Fabien Tassin License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			It may be used and modified freely, but I do request that this copyright
+			notice remain attached to the file. You may modify this module as you
+			wish, but if you redistribute a modified version, please attach a note
+			listing the modifications you have made.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

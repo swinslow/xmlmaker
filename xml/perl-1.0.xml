@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="perl-1.0"
+		name="Perl 1.0"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Perl Kit, Version 1.0
+			</p>
+			<p>
+					    Copyright (c) 1987, Larry Wall
+			</p>
+			<p>
+			You may copy the perl kit in whole or in part as long as you don't try to
+			make money off it, or pretend that you wrote it.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

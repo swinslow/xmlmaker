@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="fsf-notice"
+		name="FSF Notice"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			This is free software: you are free to change and redistribute it
+			There is NO WARRANTY, to the extent permitted by law.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

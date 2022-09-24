@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="vixie-cron"
+		name="Vixie Cron License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Distribute freely, except: don't remove my name from the source or documentation
+			(don't take credit for my work), mark your changes (don't get me blamed for your
+			possible bugs), don't alter or remove this notice. May be sold if buildable
+			source is provided to buyer. No warrantee of any kind, express or implied, is
+			included with this software; use at your own risk, responsibility for damages
+			(if any) to anyone resulting from the use of this software rests entirely with
+			the user.
+			</p>
+			<p>
+			Send bug reports, bug fixes, enhancements, requests, flames, etc., and I'll try
+			to keep a version up to date. I can be reached as follows: 
+			</p>
+			<p>
+			Paul Vixie
+			<paul@vix.com>
+			uunet!decwrl!vixie!paul
+			</p>
+			<p>
+			Vixie Cron V3.0 December 27, 1993
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

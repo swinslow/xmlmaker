@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="o-young-jong"
+		name="O Young Jong License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Copying or modifying this code for any purpose is permitted, provided that this
+			copyright notice is preserved in its entirety in all copies or modifications.
+			</p>
+			<p>
+			No warranties is provided, as to this code.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

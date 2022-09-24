@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="other-copyleft"
+		name="Other Copyleft Licenses"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			This component contains third-party subcomponents licensed under
+			one or more copyleft licenses in the style of GPL, LGPL, MPL or EPL.
+			The license obligations of these subcomponents may apply when a subcomponent
+			depending on how the subcomponent is used and/or redistributed.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

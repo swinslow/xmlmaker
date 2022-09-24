@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<exception licenseId="far-manager-exception"
+		name="Far Manager exception to BSD-3-Clause"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			EXCEPTION:
+			Far Manager plugins that use only the following header files from this
+			distribution (none or any): farcolor.hpp, farkeys.hpp, plugin.hpp,
+			farcolorW.pas, farkeysW.pas and pluginW.pas; can be distributed under any other
+			possible license with no implications from the above license on them.
+			</p>
+		</text>
+	</exception>
+</SPDXLicenseCollection>

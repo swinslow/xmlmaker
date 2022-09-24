@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="good-boy"
+		name="Good Boy License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>https://github.com/icons8/flat-color-icons/blob/master/LICENSE.md</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			Please do whatever your mom would approve of:
+			</p>
+			<p>
+			##Permitted Use
+			</p>
+			<p>
+			    Download in any format
+			    Change
+			    Fork
+			</p>
+			<p>
+			##Prohibited Use
+			</p>
+			<p>
+			    No tattoos
+			    No touching with unwashed hands
+			    No exchanging for drugs.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

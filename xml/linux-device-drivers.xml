@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="linux-device-drivers"
+		name="Linux Device Drivers License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			The source code in this file can be freely used, adapted,
+			and redistributed in source or binary form, so long as an
+			acknowledgment appears in derived source files.  The citation
+			should list that the code comes from the book ""Linux Device
+			Drivers"" by Alessandro Rubini and Jonathan Corbet, published
+			by O'Reilly & Associates.   No warranty is attached;
+			we cannot take responsibility for errors or fitness for use.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

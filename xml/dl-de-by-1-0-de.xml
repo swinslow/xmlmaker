@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="dl-de-by-1-0-de"
+		name="Datenlizenz Deutschland - Namensnennung - Version 1.0 - Deutsch"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			DL-DE->BY-1.0
+			</p>
+			<p>
+			Datenlizenz Deutschland – Namensnennung – Version 1.0
+			</p>
+			<p>
+			Jede Nutzung mit Quellenvermerk ist zulässig.
+			</p>
+			<p>
+			Veränderungen, Bearbeitungen, neue Gestaltungen oder sonstige Abwandlungen sind mit einem Veränderungshinweis im Quellenvermerk zu versehen oder der Quellenvermerk ist zu löschen, sofern die datenhaltende Stelle dies verlangt.
+			</p>
+			<p>
+			Der Bereitsteller stellt die Daten, Inhalte und Dienste mit der zur Erfüllung seiner öffentlichen Aufgaben erforderlichen Sorgfalt zur Verfügung. Für die Daten, Inhalte und Dienste gelten in Bezug auf deren Verfügbarkeit und deren Qualität die durch den Bereitsteller in den Metadaten oder sonstigen Beschreibungen zugewiesenen Spezifikationen und Qualitätsmerkmale. Der Bereitsteller übernimmt jedoch keine Gewähr für die Richtigkeit und Vollständigkeit der Daten und Inhalte sowie die dauerhafte Verfügbarkeit der Dienste. Davon ausgenommen sind Schadensersatzansprüche aufgrund einer Verletzung des Lebens, körperliche Unversehrtheit oder Gesundheit. Ebenfalls ausgenommen sind Schäden, die auf Vorsatz oder grober Fahrlässigkeit beruhen.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

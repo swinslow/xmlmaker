@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="icann-public"
+		name="ICANN-Public"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			ICANN asserts no property rights to any of the IANA registries or
+			public keys we maintain. You are free to redistribute the IANA
+			registry files, the root zone file and the root public keys.
+			</p>
+			<p>
+			As a courtesy we'd ask any such redistribution make it clear it is a
+			mirrored copy, and indicate the original source URL.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

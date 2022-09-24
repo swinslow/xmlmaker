@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="karl-peterson"
+		name="Karl Peterson License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			You are free to use this code within your own applications, but you
+			are expressly forbidden from selling or otherwise distributing this
+			source code without prior written consent.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

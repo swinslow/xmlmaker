@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="taligent-jdk"
+		name="Taligent JDK Proprietary Notice"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			The original version of this source code and documentation
+			is copyrighted and owned by Taligent, Inc., a wholly-owned
+			subsidiary of IBM. These materials are provided under terms
+			of a License Agreement between Taligent and Sun. This technology
+			is protected by multiple US and International patents.
+			</p>
+			<p>
+			This notice and attribution to Taligent may not be removed.
+			Taligent is a registered trademark of Taligent, Inc.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

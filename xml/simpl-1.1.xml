@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="simpl-1.1"
+		name="Simple Public License Version 1.1"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			SIMPLE PUBLIC LICENSE                        VERSION 1.1   2003-01-21
+			</p>
+			<p>
+			Copyright (c) The Analysis and Solutions Company
+			http://www.analysisandsolutions.com/
+			</p>
+			<p>
+			1.  Permission to use, copy, modify, and distribute this software and
+			its documentation, with or without modification, for any purpose and
+			without fee or royalty is hereby granted, provided that you include
+			the following on ALL copies of the software and documentation or
+			portions thereof, including modifications, that you make:
+			</p>
+			<p>
+			    a.  The full text of this license in a location viewable to users
+			    of the redistributed or derivative work.
+			</p>
+			<p>
+			    b.  Notice of any changes or modifications to the files,
+			    including the date changes were made.
+			</p>
+			<p>
+			2.  The name, servicemarks and trademarks of the copyright holders
+			may NOT be used in advertising or publicity pertaining to the
+			software without specific, written prior permission.
+			</p>
+			<p>
+			3.  Title to copyright in this software and any associated
+			documentation will at all times remain with copyright holders.
+			</p>
+			<p>
+			4.  THIS SOFTWARE AND DOCUMENTATION IS PROVIDED "AS IS," AND
+			COPYRIGHT HOLDERS MAKE NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR
+			IMPLIED, INCLUDING BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY
+			OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE SOFTWARE
+			OR DOCUMENTATION WILL NOT INFRINGE ANY THIRD PARTY PATENTS,
+			COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
+			</p>
+			<p>
+			5.  COPYRIGHT HOLDERS WILL NOT BE LIABLE FOR ANY DAMAGES, INCLUDING
+			BUT NOT LIMITED TO, DIRECT, INDIRECT, SPECIAL OR CONSEQUENTIAL,
+			ARISING OUT OF ANY USE OF THE SOFTWARE OR DOCUMENTATION.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

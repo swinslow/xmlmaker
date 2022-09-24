@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="oracle-master-agreement"
+		name="Oracle Master Agreement (OMA)"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			The Oracle Master Agreement (OMA) is the standard agreement that is used to license Oracle programs and acquire related services.
+			</p>
+			<p>
+			See http://www.oracle.com/us/corporate/contracts/oma/index.html
+			</p>
+			<p>
+			Oracle 1-800-633-0738
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

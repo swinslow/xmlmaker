@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="abrms"
+		name="Anyone But Richard Stallman License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			The "Anyone But Richard M Stallman" license
+			Do anything you want with this program, with the exceptions listed below under "EXCEPTIONS".
+			</p>
+			<p>
+			THIS SOFTWARE IS PROVIDED "AS IS" WITH NO WARRANTY OF ANY KIND.
+			</p>
+			<p>
+			In the unlikely event that you happen to make a zillion bucks off of this, then good for you; consider buying a homeless person a meal.
+			</p>
+			<p>
+			EXCEPTIONS
+			Richard M Stallman (the guy behind GNU, etc.) may not make use of or redistribute this program or any of its derivatives.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

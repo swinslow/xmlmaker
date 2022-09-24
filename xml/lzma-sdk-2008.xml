@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="lzma-sdk-2008"
+		name="LZMA SDK 2008"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			LZMA SDK provides the documentation, samples, header files, libraries, 
+			and tools you need to develop applications that use LZMA compression.
+			</p>
+			<p>
+			LICENSE
+			-------
+			</p>
+			<p>
+			LZMA SDK is available under any of the following licenses:
+			</p>
+			<p>
+			1) GNU Lesser General Public License (GNU LGPL)
+			2) Common Public License (CPL)
+			3) Common Development and Distribution License (CDDL) Version 1.0 
+			4) Simplified license for unmodified code (read SPECIAL EXCEPTION) 
+			</p>
+			<p>
+			It means that you can select one of these options and follow rules of that license.
+			</p>
+			<p>
+			1,2,3) GNU LGPL, CPL and CDDL licenses are classified as 
+			 - "Free software licenses" at http://www.gnu.org/ 
+			 - "OSI-approved" at http://www.opensource.org/
+			</p>
+			<p>
+			4) Simplified license for unmodified code (read SPECIAL EXCEPTION) 
+			</p>
+			<p>
+			Igor Pavlov, as the author of this code, expressly permits you 
+			to statically or dynamically link your code (or bind by name) 
+			to the files from LZMA SDK. 
+			</p>
+			<p>
+			SPECIAL EXCEPTION allows you to use LZMA SDK in applications with closed code, 
+			while you keep LZMA SDK code unmodified.
+			</p>
+			<p>
+			SPECIAL EXCEPTION #2: Igor Pavlov, as the author of this code, expressly permits 
+			you to use this code under the same terms and conditions contained in the License 
+			Agreement you have for any previous version of LZMA SDK developed by Igor Pavlov.
+			</p>
+			<p>
+			SPECIAL EXCEPTION #2 allows owners of proprietary licenses to use latest version 
+			of LZMA SDK as update for previous versions.
+			</p>
+			<p>
+			Some files in LZMA SDK are placed in public domain.
+			Some of these "public domain" files:
+			C\Types.h,
+			C\LzmaLib.*
+			C\LzmaLibUtil.*
+			LzmaAlone.cpp, 
+			LzmaAlone.cs, 
+			LzmaAlone.java
+			</p>
+			<p>
+			So you can change them as you want and use "SPECIAL EXCEPTION" 
+			for other unmodified files. For example, you can edit C\Types.h to solve some 
+			compatibility problems with your compiler.
+			</p>
+			<p>
+			-----
+			</p>
+			<p>
+			You should have received a copy of the GNU Lesser General Public
+			License along with this library; if not, write to the Free Software
+			Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+			</p>
+			<p>
+			You should have received a copy of the Common Public License
+			along with this library.
+			</p>
+			<p>
+			You should have received a copy of the Common Development and Distribution 
+			License Version 1.0 along with this library.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="stu-nicholls"
+		name="Stu Nicholls License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			This copyright notice must be kept untouched in the stylesheet at all times.
+			</p>
+			<p>
+			The original version of this stylesheet and the associated (x)html is available at  
+			http://www.stunicholls.com/menu/pro_drop_2.html 
+			</p>
+			<p>
+			Copyright (c) 2005-2007 Stu Nicholls. All rights reserved. 
+			</p>
+			<p>
+			This stylesheet and the associated (x)html may be modified in any way to fit your requirements.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

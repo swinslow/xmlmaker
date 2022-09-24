@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="iso-8879"
+		name="ISO 8879"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Permission to copy in any form is granted for use with
+			conforming SGML systems and applications as defined in
+			ISO 8879, provided this notice is included in all copies.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

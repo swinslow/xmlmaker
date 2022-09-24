@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="adobe-eula"
+		name="Adobe End User License Agreement"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Patents pending in the United States and 
+			other countries. Adobe and Flash are either trademarks or registered 
+			trademarks in the United States and/or other countries.
+			</p>
+			<p>
+			Adobe  End User License Agreement
+			</p>
+			<p>
+			http://www.adobe.com/products/eulas/
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

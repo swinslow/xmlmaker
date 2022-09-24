@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="hugo"
+		name="Hugo License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			HUGO LICENSE - December 19, 2003
+			--------------------------------
+			</p>
+			<p>
+			Copyright (c) 2003 by Kent Tessman
+			The General Coffee Company Film Productions
+			</p>
+			<p>
+			
+			1.   Definitions
+			</p>
+			<p>
+			"Copyright Holder" refers to Kent Tessman.
+			</p>
+			<p>
+			"End User" refers to a user of the Software.
+			</p>
+			<p>
+			"End User Program" refers to a computer program created by an End
+			User, written using the Hugo Programming Language and compiled using
+			the Hugo Compiler.
+			</p>
+			<p>
+			"Hugo" refers to the Hugo Interactive Fiction Development System, created
+			by the Copyright Holder.
+			</p>
+			<p>
+			"Hugo Programming Language" refers to the Hugo programming language and
+			its characteristic syntax.
+			</p>
+			<p>
+			"Hugo Source Code" refers to the human-readable source code of the
+			Software.
+			</p>
+			<p>
+			"License" refers to this license.
+			</p>
+			<p>
+			"Software" refers to the Hugo Compiler, the Hugo Engine, the Hugo
+			Debugger, the Hugo Library, and any other related programs or files.
+			</p>
+			<p>
+			
+			2.   Ownership and Grant of Rights
+			</p>
+			<p>
+			2.1  Hugo is the property of the Copyright Holder.  The Copyright Holder
+			retains its copyright in the Software, without limitation.
+			</p>
+			<p>
+			2.2  The Copyright Holder grants to the End User the right to use the
+			Software solely for the purposes of:
+			</p>
+			<p>
+			     (a) running programs created with the Software; and
+			</p>
+			<p>
+			     (b) creating End User Programs.
+			</p>
+			<p>
+			2.3  End User Programs are the property of the End User.
+			</p>
+			<p>
+			
+			3.   Provision of the Hugo Source Code
+			</p>
+			<p>
+			3.1  The Copyright Holder has made available to the End User the Hugo
+			Source Code for the purposes of:
+			</p>
+			<p>
+			     (a) porting the Software to operating systems for which the
+			         Software is not yet available; and
+			</p>
+			<p>
+			     (b) investigating the functionality of the Software.
+			</p>
+			<p>
+			3.2  In no way does the Copyright Holder's act of making available the
+			Hugo Source code reduce or otherwise affect in any way its rights in
+			the Hugo Source Code.
+			</p>
+			<p>
+			
+			4.   Modification and Distribution
+			</p>
+			<p>
+			4.1  Distribution of the Software or the Hugo Source Code, in whole or
+			in part, in a modified form without the express written consent of the
+			Copyright Holder is prohibited.
+			</p>
+			<p>
+			4.2  Distribution of the Software or the Hugo Source Code, in whole or
+			in part, for profit or other commercial intent or monetary transaction
+			without the express written consent of the Copyright Holder is
+			prohibited.
+			</p>
+			<p>
+			4.3  This License must be distributed with any distribution of the 
+			Software or the Hugo Source Code.
+			</p>
+			<p>
+			
+			5.   Warranty
+			</p>
+			<p>
+			The Software and the Hugo Source Code are provided "as is" without
+			warranty of any kind, either expressed or implied, including but not
+			limited to the implied warranties of merchantability and fitness for a
+			particular purpose.  In no event shall the Copyright Holder or The 
+			General Coffee Company Film Productions or any other related or
+			unrelated party be liable to the End User or any other individual or
+			entity for damages arising out of the use or inability to use these or
+			other programs.  Use of the Software indicates acceptance of these
+			terms.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

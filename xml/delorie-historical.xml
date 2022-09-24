@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="delorie-historical"
+		name="Delorie Historical License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Redistribution, modification, and use in source and binary forms is permitted
+			provided that the above copyright notice and following paragraph are
+			duplicated in all such forms.
+			</p>
+			<p>
+			This file is distributed WITHOUT ANY WARRANTY; without even the implied
+			warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

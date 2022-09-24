@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="paul-hsieh-exposition"
+		name="Paul Hsieh Exposition License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>http://www.azillionmonkeys.com/qed/weblicense.html</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			Paul Hsieh exposition license
+			The content of all text, figures, tables and displayed layout is copyrighted by its author and owner Paul Hsieh unless specifically denoted otherwise. Redistribution is limited to the following conditions:
+			</p>
+			<p>
+			The redistributor must fully attribute the content's authorship and make a good faith effort to cite the original location of the original content.
+			</p>
+			<p>
+			The content may not be modified via excerpt or otherwise with the exception of additional citations such as described above without prior consent of Paul Hsieh.
+			</p>
+			<p>
+			The content may not be subject to a change in license without prior consent of Paul Hsieh.
+			</p>
+			<p>
+			The content may be used for commercial purposes.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

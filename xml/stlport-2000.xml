@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="stlport-2000"
+		name="STLport License 2000"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			STLport License Agreement
+			</p>
+			<p>
+			Boris Fomitchev grants Licensee a non-exclusive, non-transferable, royalty- free
+			license to use STLport and its documentation without fee.
+			</p>
+			<p>
+			By downloading, using, or copying STLport or any portion thereof, Licensee
+			agrees to abide by the intellectual property laws and all other applicable laws
+			of the United States of America, and to all of the terms and conditions of this
+			Agreement.
+			</p>
+			<p>
+			Licensee shall maintain the following copyright and permission notices on
+			STLport sources and its documentation unchanged :
+			</p>
+			<p>
+			Copyright 1999,2000 Boris Fomitchev
+			</p>
+			<p>
+			This material is provided "as is", with absolutely no warranty expressed or
+			implied. Any use is at your own risk. Permission to use or copy this software
+			for any purpose is hereby granted without fee, provided the above notices are
+			retained on all copies. Permission to modify the code and to distribute modified
+			code is granted, provided the above notices are retained, and a notice that the
+			code was modified is included with the above copyright notice.
+			</p>
+			<p>
+			The Licensee may distribute binaries compiled with STLport (whether original or modified) without any royalties or restrictions.
+			</p>
+			<p>
+			The Licensee may distribute original or modified STLport sources, provided that:
+			</p>
+			<p>
+			• The conditions indicated in the above permission notice are met; 
+			</p>
+			<p>
+			• The following copyright notices are retained when present, and conditions
+			provided in accompanying permission notices are met :
+			</p>
+			<p>
+			Copyright 1994 Hewlett-Packard Company 
+			Copyright 1996,97 Silicon Graphics Computer Systems, Inc. 
+			Copyright 1997 Moscow Center for SPARC Technology.
+			</p>
+			<p>
+			Permission to use, copy, modify, distribute and sell this software and its
+			documentation for any purpose is hereby granted without fee, provided that the
+			above copyright notice appear in all copies and that both that copyright notice
+			and this permission notice appear in supporting documentation. Hewlett-Packard
+			Company makes no representations about the suitability of this software for any
+			purpose. It is provided "as is" without express or implied warranty.
+			</p>
+			<p>
+			Permission to use, copy, modify, distribute and sell this software and its
+			documentation for any purpose is hereby granted without fee, provided that the
+			above copyright notice appear in all copies and that both that copyright notice
+			and this permission notice appear in supporting documentation. Silicon Graphics
+			makes no representations about the suitability of this software for any purpose.
+			It is provided "as is" without express or implied warranty.
+			</p>
+			<p>
+			Permission to use, copy, modify, distribute and sell this software and its
+			documentation for any purpose is hereby granted without fee, provided that the
+			above copyright notice appear in all copies and that both that copyright notice
+			and this permission notice appear in supporting documentation. Moscow Center for
+			SPARC Technology makes no representations about the suitability of this software
+			for any purpose. It is provided "as is" without express or implied warranty.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

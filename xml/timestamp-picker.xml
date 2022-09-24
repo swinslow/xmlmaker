@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="timestamp-picker"
+		name="Timestamp Picker License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Permission given to use this script in any kind of applications if header lines
+			are left unchanged. Feel free to contact the author for feature requests and/or
+			donations.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

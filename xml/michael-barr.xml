@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="michael-barr"
+		name="Michael Barr License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			This software is placed into the public domain and may be used for any purpose.
+			However, this notice must not be changed or removed and no warranty is either
+			expressed or implied by its publication or distribution.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

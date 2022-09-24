@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="prosperity-3.0"
+		name="The Prosperity Public License 3.0"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>https://raw.githubusercontent.com/licensezero/prosperity-public-license/v3.0.0/LICENSE.md</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			# The Prosperity Public License 3.0.0
+			</p>
+			<p>
+			Contributor: $name
+			</p>
+			<p>
+			Source Code: $address
+			</p>
+			<p>
+			## Purpose
+			</p>
+			<p>
+			This license allows you to use and share this software for noncommercial purposes for free and to try this software for commercial purposes for thirty days.
+			</p>
+			<p>
+			## Agreement
+			</p>
+			<p>
+			In order to receive this license, you have to agree to its rules.  Those rules are both obligations under that agreement and conditions to your license.  Don't do anything with this software that triggers a rule you can't or won't follow.
+			</p>
+			<p>
+			## Notices
+			</p>
+			<p>
+			Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license and the contributor and source code lines above.
+			</p>
+			<p>
+			## Commercial Trial
+			</p>
+			<p>
+			Limit your use of this software for commercial purposes to a thirty-day trial period.  If you use this software for work, your company gets one trial period for all personnel, not one trial per person.
+			</p>
+			<p>
+			## Contributions Back
+			</p>
+			<p>
+			Developing feedback, changes, or additions that you contribute back to the contributor on the terms of a standardized public software license such as [the Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0), [the Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), [the MIT license](https://spdx.org/licenses/MIT.html), or [the two-clause BSD license](https://spdx.org/licenses/BSD-2-Clause.html) doesn't count as use for a commercial purpose.
+			</p>
+			<p>
+			## Personal Uses
+			</p>
+			<p>
+			Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, doesn't count as use for a commercial purpose.
+			</p>
+			<p>
+			## Noncommercial Organizations
+			</p>
+			<p>
+			Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution doesn't count as use for a commercial purpose regardless of the source of funding or obligations resulting from the funding.
+			</p>
+			<p>
+			## Defense
+			</p>
+			<p>
+			Don't make any legal claim against anyone accusing this software, with or without changes, alone or with other technology, of infringing any patent.
+			</p>
+			<p>
+			## Copyright
+			</p>
+			<p>
+			The contributor licenses you to do everything with this software that would otherwise infringe their copyright in it.
+			</p>
+			<p>
+			## Patent
+			</p>
+			<p>
+			The contributor licenses you to do everything with this software that would otherwise infringe any patents they can license or become able to license.
+			</p>
+			<p>
+			## Reliability
+			</p>
+			<p>
+			The contributor can't revoke this license.
+			</p>
+			<p>
+			## Excuse
+			</p>
+			<p>
+			You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
+			</p>
+			<p>
+			## No Liability
+			</p>
+			<p>
+			***As far as the law allows, this software comes as is, without any warranty or condition, and the contributor won't be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="wtfpl-1.0"
+		name="WTFPL 1.0"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>http://hg.windowmaker.info/wmaker/file/0a3a3e370483/COPYING.WTFPL</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			do What The Fuck you want to Public License
+			</p>
+			<p>
+			Version 1.0, March 2000
+			Copyright (C) 2000 Banlu Kemiyatorn (]d).
+			136 Nives 7 Jangwattana 14 Laksi Bangkok
+			Everyone is permitted to copy and distribute verbatim copies
+			of this license document, but changing it is not allowed.
+			</p>
+			<p>
+			Ok, the purpose of this license is simple
+			and you just
+			</p>
+			<p>
+			DO WHAT THE FUCK YOU WANT TO.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

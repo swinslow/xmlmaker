@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="wrox-download"
+		name="Wrox Download Terms and Conditions"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			While we try to make it as open as possible, for commercial reasons we do have to assert a few simple Terms and Conditions. By downloading the code you signify that you agree with these. They are:
+			</p>
+			<p>
+			Wrox Press, the authors and distributors cannot be held responsible for any loss, damage or other claim caused by using the executable code or other files.
+			</p>
+			<p>
+			You may not redistribute the code to any other person, nor make it available on any Web site, forum newsgroup or other facility without prior permission from Wrox.
+			</p>
+			<p>
+			You may, however, use and modify the code in any way you wish, and incorporate it into any of your own projects.
+			</p>
+			<p>
+			Wrox cannot provide technical support for the code once it has been modified, or when used in any way other than described in the original book or article.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

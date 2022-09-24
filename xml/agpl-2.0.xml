@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="agpl-2.0"
+		name="Affero General Public License 2.0"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>http://www.affero.org/agpl2.html</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			AFFERO GENERAL PUBLIC LICENSE
+			</p>
+			<p>
+			Version 2, November 2007
+			</p>
+			<p>
+			Copyright © 2007 Affero Inc.
+			510 Third Street - Suite 225, San Francisco, CA 94107, USA
+			</p>
+			<p>
+			This is version 2 of the Affero General Public License. It gives each licensee
+			permission to distribute the Program or a work based on the Program (as defined
+			in version 1 of the Affero GPL) under the GNU Affero General Public License,
+			version 3 or any later version.
+			</p>
+			<p>
+			If the Program was licensed under version 1 of the Affero GPL "or any later
+			version", no additional obligations are imposed on any author or copyright
+			holder of the Program as a result of a licensee's choice to follow this version
+			2 of the Affero GPL.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

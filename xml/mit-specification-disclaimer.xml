@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="mit-specification-disclaimer"
+		name="MIT with Specification Disclaimer"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Use and copying of this software and preparation of derivative works based
+			upon this software are permitted.  Any distribution of this software or
+			derivative works must comply with all applicable United States export control
+			laws.
+			</p>
+			<p>
+			This software is made available AS IS, and Xerox Corporation makes no warranty
+			about the software, its performance or its conformity to any specification.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

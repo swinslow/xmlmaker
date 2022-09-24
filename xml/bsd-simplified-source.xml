@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="bsd-simplified-source"
+		name="BSD-Simplified source"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Redistribution and use in source and binary forms, with or without
+			modification, are permitted provided that redistributions of source
+			code retain the above copyright notice and this comment without
+			modification.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

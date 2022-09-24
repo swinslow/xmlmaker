@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="lcs-telegraphics"
+		name="LCS-Telegraphics License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			The text and information contained in this file may be freely used,
+			copied, or distributed without compensation or licensing restrictions.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

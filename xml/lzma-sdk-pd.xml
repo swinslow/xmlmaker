@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="lzma-sdk-pd"
+		name="LZMA SDK Public Domain"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			LICENSE
+			-------
+			</p>
+			<p>
+			LZMA SDK is written and placed in the public domain by Igor Pavlov.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

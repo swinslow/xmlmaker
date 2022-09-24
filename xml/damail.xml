@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="damail"
+		name="Don't Ask Me About It License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			The Don't Ask Me About It License
+			Full License Text
+			</p>
+			<p>
+			Copying and distribution of this file, with or without modification, are
+			permitted in any medium provided you do not contact the author about the file or
+			any problems you are having with the file.
+			</p>
+			<p>
+			How To Apply This To Your Stuff
+			</p>
+			<p>
+			Add a copyright notice to whatever you want to license and then copy the license
+			text verbatim.
+			</p>
+			<p>
+			License
+			Licensed under itself. Don't bother emailing me about it.
+			You can follow me on Twitter though!
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

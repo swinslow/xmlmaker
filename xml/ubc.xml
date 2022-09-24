@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="ubc"
+		name="University of British Columbia License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>https://github.com/esnacc/esnacc-ng/blob/55eb00bfb50439620f6fc64b1e8373dd2ad0abb5/cxx-lib/src/asn-len.cpp</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			This library is free software; you can redistribute it and/or
+			modify it provided that this copyright/license information is retained
+			in original form.
+			</p>
+			<p>
+			If you modify this file, you must clearly indicate your changes.
+			</p>
+			<p>
+			This source code is distributed in the hope that it will be
+			useful, but WITHOUT ANY WARRANTY; without even the implied warranty
+			of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

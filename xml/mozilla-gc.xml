@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="mozilla-gc"
+		name="Mozilla GC License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>http://www.hboehm.info/gc/license.txt</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			THIS MATERIAL IS PROVIDED AS IS, WITH ABSOLUTELY NO WARRANTY EXPRESSED
+			OR IMPLIED. ANY USE IS AT YOUR OWN RISK.
+			</p>
+			<p>
+			Permission is hereby granted to use or copy this program for any
+			purpose, provided the above notices are retained on all copies.
+			</p>
+			<p>
+			Permission to modify the code and to distribute modified code is
+			granted, provided the above notices are retained, and a notice that
+			the code was modified is included with the above copyright notice.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="things-i-made-public-license"
+		name="Things I Made (TIM) Public License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			THINGS I MADE (TIM) PUBLIC LICENSE
+			TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+			</p>
+			<p>
+			Copyright (c) Marcus Crane <marcus@thingsima.de>
+			</p>
+			<p>
+			1. The author of this project would really like to hear any cool stuff you made
+			as a result of reusing this code.
+			</p>
+			<p>
+			This is not enforceable but it is highly encouraged as it would make the author
+			happy.
+			</p>
+			<p>
+			2. If it breaks, the author may try to help if it's a neat bug but they aren't
+			obligated to provide support nor are they liable for any damages.
+			</p>
+			<p>
+			3. Beyond that, do whatever you feel like.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

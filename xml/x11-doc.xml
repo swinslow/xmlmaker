@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="x11-doc"
+		name="X11 Documentation License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>https://answers.launchpad.net/ubuntu-leb/oneiric/+source/libxext/+copyright</crossRef>
+			
+			<crossRef>https://www.x.org/releases/X11R7.7/doc/libXtst/xtestlib.txt</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			Permission to use, copy, modify, distribute, and sell this
+			documentation for any purpose is hereby granted without fee,
+			provided that the above copyright notice and this permission
+			notice appear in all copies.  The author makes no 
+			representations about the suitability for any purpose
+			of the information in this document.  This documentation is
+			provided ``as is'' without express or implied warranty.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

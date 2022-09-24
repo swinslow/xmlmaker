@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="blitz-artistic"
+		name="Blitz++ Artistic License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>https://raw.githubusercontent.com/blitzpp/blitz/e3c973d68e5ee17aec779bf9711b38fd4afc355f/LICENSE</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			The `Blitz++ Artistic License'
+			(with thanks and apologies to authors of the Perl Artistic License)
+			</p>
+			<p>
+			Preamble
+			</p>
+			<p>
+			The intent of this document is to state the conditions under which 
+			Blitz++ may be copied, such that the authors maintains some
+			semblance of artistic control over the development of the package,
+			while giving the users of the package the right to use and
+			distribute Blitz++ in a more-or-less customary fashion, plus the
+			right to make reasonable modifications.
+			</p>
+			<p>
+			Definitions
+			</p>
+			<p>
+			`Library' refers to the collection of files distributed by the
+			Copyright Holder, and derivatives of that collection of files
+			created through textual modification.
+			</p>
+			<p>
+			`Standard Version' refers to such a Library if it has not been
+			modified, or has been modified in accordance with the wishes of the
+			Copyright Holder as specified below.
+			</p>
+			<p>
+			Copyright Holder' is whoever is named in the copyright or
+			copyrights for the package.
+			</p>
+			<p>
+			`You' is you, if you're thinking about copying, modifying or
+			distributing this Library.
+			</p>
+			<p>
+			`Freely Available' means that no fee is charged for the item.
+			It also means that recipients of the item may redistribute it 
+			under the same conditions they received it.
+			</p>
+			<p>
+			``Reasonable copying fee'' is whatever you can justify on the basis
+			of media cost, duplication charges, time of people involved, and so
+			on. (You will not be required to justify it to the Copyright Holder,
+			but only to the computing community at large as a market that must
+			bear the fee.)
+			</p>
+			<p>
+			1. You may make and give away verbatim copies of the 
+			Standard Version of this Library without restriction, provided that
+			you duplicate all of the original copyright notices, this license,
+			and associated disclaimers. 
+			</p>
+			<p>
+			2. The Standard Version of the Library may be distributed as part
+			of a collection of software, provided no more than a reasonable
+			copying fee is charged for the software collection.
+			</p>
+			<p>
+			3. You may apply bug fixes, portability fixes and other modifications
+			derived from the Public Domain or from the Copyright Holder. A
+			Library modified in such a way shall still be considered the
+			Standard Version.
+			</p>
+			<p>
+			4. You may otherwise modify your copy of this Library in any way,
+			provided that you insert a prominent notice in each changed file
+			stating how and when you changed that file, and provided that you do
+			at least ONE of the following:
+			</p>
+			<p>
+			a. place your modifications in the Public Domain or otherwise
+			make them Freely Available, such as by posting said
+			modifications to the Blitz++ development list, 
+			and allowing the Copyright Holder to include
+			your modifications in the Standard Version of the Library.
+			</p>
+			<p>
+			b. use the modified Library only within your corporation or
+			organization. 
+			</p>
+			<p>
+			c. make other distribution arrangements with the Copyright
+			Holder.
+			</p>
+			<p>
+			5. You may distribute programs which use this Library
+			in object code or executable form without restriction.
+			</p>
+			<p>
+			6. Any object code generated as a result of using this Library 
+			does not fall under the copyright of this Library, but
+			belongs to whomever generated it, and may be sold commercially.
+			</p>
+			<p>
+			7. The name of the Copyright Holder or the Library may not be used to 
+			endorse or promote products derived from this software without 
+			specific prior written permission.
+			</p>
+			<p>
+			8. THIS PACKAGE IS PROVIDED `AS IS' AND WITHOUT ANY EXPRESS OR
+			IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+			WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

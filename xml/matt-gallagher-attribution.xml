@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="matt-gallagher-attribution"
+		name="Matt Gallagher Attribution License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>https://gist.github.com/wiliams-xu/508933756ca83c49a865</crossRef>
+			
+			<crossRef>https://github.com/DJBen/Werewolves-of-Millers-Hollows-For-Host/blob/master/Werewolf/ReorderingTableView/ATSDragToReorderTableViewController.h</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			Permission is given to use this source code file, free of charge, in any
+			project, commercial or otherwise, entirely at your risk, with the condition
+			that any redistribution (in part or whole) of source code must retain
+			this copyright and permission notice. Attribution in compiled projects is
+			appreciated but not required.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

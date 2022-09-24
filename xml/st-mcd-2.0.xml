@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="st-mcd-2.0"
+		name="STMicro Liberty License v2"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>https://www.st.com/content/ccc/resource/legal/legal_agreement/license_agreement/group0/59/57/63/12/cf/a6/47/65/SLA0044/files/SLA0044.txt/jcr:content/translations/en.SLA0044.txt</crossRef>
+			
+			<crossRef>https://www.st.com/software_license_agreement_liberty_v2</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			SLA0044 Rev5/February 2018
+			</p>
+			<p>
+			BY INSTALLING COPYING, DOWNLOADING, ACCESSING OR OTHERWISE USING THIS SOFTWARE
+			OR ANY PART THEREOF (AND THE RELATED DOCUMENTATION) FROM STMICROELECTRONICS
+			INTERNATIONAL N.V, SWISS BRANCH AND/OR ITS AFFILIATED COMPANIES
+			(STMICROELECTRONICS), THE RECIPIENT, ON BEHALF OF HIMSELF OR HERSELF, OR ON
+			BEHALF OF ANY ENTITY BY WHICH SUCH RECIPIENT IS EMPLOYED AND/OR ENGAGED AGREES
+			TO BE BOUND BY THIS SOFTWARE LICENSE AGREEMENT.
+			</p>
+			<p>
+			Under STMicroelectronics’ intellectual property rights, the redistribution,
+			reproduction and use in source and binary forms of the software or any part
+			thereof, with or without modification, are permitted provided that the following
+			conditions are met:
+			</p>
+			<p>
+			1.  Redistribution of source code (modified or not) must retain any copyright
+			notice, this list of conditions and the disclaimer set forth below as items 10
+			and 11.
+			</p>
+			<p>
+			2.  Redistributions in binary form, except as embedded into microcontroller or
+			microprocessor device manufactured by or for STMicroelectronics or a software
+			update for such device, must reproduce any copyright notice provided with the
+			binary code, this list of conditions, and the disclaimer set forth below as
+			items 10 and 11, in documentation and/or other materials provided with the
+			distribution.
+			</p>
+			<p>
+			3.  Neither the name of STMicroelectronics nor the names of other contributors
+			to this software may be used to endorse or promote products derived from this
+			software or part thereof without specific written permission.
+			</p>
+			<p>
+			4.  This software or any part thereof, including modifications and/or derivative
+			works of this software, must be used and execute solely and exclusively on or in
+			combination with a microcontroller or microprocessor device manufactured by or
+			for STMicroelectronics.
+			</p>
+			<p>
+			5.  No use, reproduction or redistribution of this software partially or totally
+			may be done in any manner that would subject this software to any Open Source
+			Terms. “Open Source Terms” shall mean any open source license which requires as
+			part of distribution of software that the source code of such software is
+			distributed therewith or otherwise made available, or open source license that
+			substantially complies with the Open Source definition specified at
+			www.opensource.org and any other comparable open source license such as for
+			example GNU General Public License (GPL), Eclipse Public License (EPL), Apache
+			Software License, BSD license or MIT license.
+			</p>
+			<p>
+			6.  STMicroelectronics has no obligation to provide any maintenance, support or
+			updates for the software.
+			</p>
+			<p>
+			7.  The software is and will remain the exclusive property of STMicroelectronics
+			and its licensors. The recipient will not take any action that jeopardizes
+			STMicroelectronics and its licensors' proprietary rights or acquire any rights
+			in the software, except the limited rights specified hereunder.
+			</p>
+			<p>
+			8.  The recipient shall comply with all applicable laws and regulations
+			affecting the use of the software or any part thereof including any applicable
+			export control law or regulation.
+			</p>
+			<p>
+			9.  Redistribution and use of this software or any part thereof other than as
+			permitted under this license is void and will automatically terminate your
+			rights under this license.
+			</p>
+			<p>
+			10. THIS SOFTWARE IS PROVIDED BY STMICROELECTRONICS AND CONTRIBUTORS "AS IS" AND
+			ANY EXPRESS, IMPLIED OR STATUTORY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+			IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-
+			INFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS, WHICH ARE DISCLAIMED
+			TO THE FULLEST EXTENT PERMITTED BY LAW. IN NO EVENT SHALL STMICROELECTRONICS OR
+			CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+			OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+			SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+			INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+			CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+			IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
+			OF SUCH DAMAGE.
+			</p>
+			<p>
+			11. EXCEPT AS EXPRESSLY PERMITTED HEREUNDER, NO LICENSE OR OTHER RIGHTS, WHETHER
+			EXPRESS OR IMPLIED, ARE GRANTED UNDER ANY PATENT OR OTHER INTELLECTUAL PROPERTY
+			RIGHTS OF STMICROELECTRONICS OR ANY THIRD PARTY.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

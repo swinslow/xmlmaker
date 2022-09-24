@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="richard-black"
+		name="Richard Black License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			This code is copyright 1993 Richard Black. All rights are reserved. You may use this code only if it includes a statement to that effect.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

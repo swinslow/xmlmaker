@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="asmus"
+		name="ASMUS License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			ASMUS License
+			</p>
+			<p>
+			Disclaimer and legal rights
+			---------------------------
+			</p>
+			<p>
+			This file contains bugs. All representations to the contrary are void.
+			</p>
+			<p>
+			Source code in this file and the accompanying headers and included 
+			files may be distributed free of charge by anyone, as long as full 
+			credit is given and any and all liabilities are assumed by the 
+			recipient.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

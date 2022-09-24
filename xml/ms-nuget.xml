@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="ms-nuget"
+		name="Microsoft Nuget License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			NUGET: BEGIN LICENSE TEXT
+			Microsoft grants you the right to use these script files for the sole
+			purpose of either: 
+			</p>
+			<p>
+			(i) interacting through your browser with the Microsoft website or
+			online service, subject to the applicable licensing or use terms;
+			</p>
+			<p>
+			or (ii) using the files as included with a Microsoft product subject to
+			that product's license terms. Microsoft reserves all other rights to the
+			files not expressly granted by Microsoft, whether by implication,
+			estoppel or otherwise.
+			</p>
+			<p>
+			Insofar as a script file is dual licensed under GPL, Microsoft neither
+			took the code under GPL nor distributes it thereunder but under the
+			terms set out in this paragraph. All notices and licenses below are for
+			informational purposes only.
+			NUGET: END LICENSE TEXT
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="sunpro"
+		name="SunPro Attribution License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Developed at SunPro, a Sun Microsystems, Inc. business.
+			</p>
+			<p>
+			Permission to use, copy, modify, and distribute this
+			software is freely granted, provided that this notice
+			is preserved.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="historical-ntp"
+		name="Historical Notice - NTP"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Permission is hereby granted for unlimited modification, use, and
+			distribution.  This software is made available with no warranty of any
+			kind, express or implied.  This copyright notice must remain intact in
+			all versions of this software.
+			</p>
+			<p>
+			The author would appreciate it if any bug fixes and enhancements were
+			to be sent back to him for incorporation into future versions of this
+			software.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

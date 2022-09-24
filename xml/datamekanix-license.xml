@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="datamekanix-license"
+		name="DataMekanix License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			This code is free for personal and commercial use, providing the copyright
+			notice remains intact in the source files and all eventual changes are clearly
+			marked with comments.
+			</p>
+			<p>
+			No warrantee of any kind, express or implied, is included with this software;
+			use at your own risk, responsibility for damages (if any) to anyone resulting
+			from the use of this software rests entirely with the user.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="william-alexander"
+		name="William Alexander License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>http://www.java-samples.com/</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			free for use as long as this comment is included 
+			in the program as it is
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

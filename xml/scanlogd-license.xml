@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="scanlogd-license"
+		name="scanlogd License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			You're allowed to do whatever you like with this software (including
+			re-distribution in any form, with or without modification), provided
+			that credit is given where it is due and any modified versions are
+			marked as such.
+			</p>
+			<p>
+			There's absolutely no warranty.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

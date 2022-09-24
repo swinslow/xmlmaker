@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="broadcom-linux-timer"
+		name="Broadcom Warranty Disclaimer"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Copyright (c) Broadcom Corporation  All Rights Reserved. 
+			</p>
+			<p>
+			THIS SOFTWARE IS OFFERED "AS IS", AND BROADCOM GRANTS NO WARRANTIES OF
+			ANY KIND, EXPRESS OR IMPLIED, BY STATUTE, COMMUNICATION OR OTHERWISE.
+			BROADCOM SPECIFICALLY DISCLAIMS ANY IMPLIED WARRANTIES OF
+			MERCHANTABILITY, FITNESS FOR A SPECIFIC PURPOSE OR NONINFRINGEMENT
+			CONCERNING THIS SOFTWARE.
+			</p>
+			<p>
+			Low resolution timer interface linux specific implementation.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

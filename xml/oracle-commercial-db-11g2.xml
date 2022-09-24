@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="oracle-commercial-db-11g2"
+		name="Oracle Commercial Database License 11g Release 2 (11.2)"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			This Oracle database is subject to commercial licensing terms.  Refer to http://docs.oracle.com/cd/E11882_01/license.112/e47877/toc.htm for complete details.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

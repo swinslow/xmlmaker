@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="egrappler"
+		name="eGrappler License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			All files at egrappler.com are free for personal and commercial use.
+			However, you cannot redistribute, sale, re-upload these files. 
+			Do not offer download links at your site without written consent of the author.
+			Do not use any content plugin or template from egrappler.com for anything that
+			contains adult, gambling contents.
+			Always link to original post if you want to spread the word.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

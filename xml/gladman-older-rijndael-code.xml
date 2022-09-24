@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="gladman-older-rijndael-code"
+		name="Gladman Older Rigndael Code Use"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Code Use
+			</p>
+			<p>
+			I am happy for this code to be used without payment provided that I don't carry 
+			any risks as a result.  
+			</p>
+			<p>
+			I would appreciate an appropriate acknowledgement of the source of the code if 
+			you do use it in a product or activity provided to third parties.   I would also be 
+			grateful for feedback on how the code is being used, any problems you 
+			encounter, any changes or additions that are desirable for particular processors 
+			and any more general improvements you would like to see (no promises mind!).
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

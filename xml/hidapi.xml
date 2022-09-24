@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="hidapi"
+		name="HIDAPI License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			This software may be used by anyone for any reason so long as the copyright
+			notice in the source files remains intact.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

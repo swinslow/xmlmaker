@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="crypto-keys-redistribution"
+		name="Cryptographic keys redistribution"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>http://git.savannah.gnu.org/cgit/dmidecode.git/tree/dmidecode.c?id=ee07a1b4249560d620d05194eb8ff61b40d3ce23</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			For the avoidance of doubt the "preferred form" of this code is one which
+			is in an open non patent encumbered format. Where cryptographic key signing
+			forms part of the process of creating an executable the information
+			including keys needed to generate an equivalently functional executable
+			are deemed to be part of the source code.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

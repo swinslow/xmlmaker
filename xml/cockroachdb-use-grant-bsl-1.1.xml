@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="cockroachdb-use-grant-bsl-1.1"
+		name="CockroachDB Additional Use Grant for BSL 1.1"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Parameters
+			Licensor:             Cockroach Labs, Inc.
+			Licensed Work:        CockroachDB 19.2
+			                      The Licensed Work is (c) 2019 Cockroach Labs, Inc.
+			</p>
+			<p>
+			Additional Use Grant: You may make use of the Licensed Work, provided that
+			                      you may not use the Licensed Work for a Database
+			                      Service.
+			</p>
+			<p>
+			                      A “Database Service” is a commercial offering that
+			                      allows third parties (other than your employees and
+			                      contractors) to access the functionality of the
+			                      Licensed Work by creating tables whose schemas are
+			                      controlled by such third parties.
+			</p>
+			<p>
+			Change Date:          2022-10-01
+			</p>
+			<p>
+			Change License:       Apache License, Version 2.0
+			</p>
+			<p>
+			For information about alternative licensing arrangements for the Software,
+			please visit: https://cockroachlabs.com/
+			</p>
+			<p>
+			Notice
+			</p>
+			<p>
+			The Business Source License (this document, or the “License”) is not an Open
+			Source license. However, the Licensed Work will eventually be made available
+			under an Open Source License, as stated in this License.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

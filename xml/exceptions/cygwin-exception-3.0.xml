@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<exception licenseId="cygwin-exception-3.0"
+		name="Cygwin exception to GPL 3.0 or later"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			As a special exception to GPLv3+, Red Hat grants you permission to link
+			software whose sources are distributed under a license that satisfies
+			the Open Source Definition with libcygwin.a, without libcygwin.a
+			itself causing the resulting program to be covered by GPLv3+.
+			</p>
+		</text>
+	</exception>
+</SPDXLicenseCollection>

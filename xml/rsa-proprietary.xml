@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="rsa-proprietary"
+		name="RSA Proprietary Shrinkwrap License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>https://www.emc.com/collateral/legal/shrinkwrap-license-combined.pdf</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			The text of this license is secured, and may be viewed at
+			https://www.emc.com/collateral/legal/shrinkwrap-license-combined.pdf
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

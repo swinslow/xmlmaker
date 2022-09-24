@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<exception licenseId="bacula-exception"
+		name="Bacula exception to AGPL 3.0"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Last revision: 21 May 2017
+			</p>
+			<p>
+			Bacula is licensed under the GNU Affero General Public License, version
+			3.0 as published by the Free Software Foundation, Inc. ("AGPLv3").
+			</p>
+			<p>
+			Additional Terms on the work licensed herein, pursuant to Section 7 of
+			Affero General Public License are as follows:
+			</p>
+			<p>
+			  1. The name Bacula is a registered trademark of Kern Sibbald, and Kern
+			     Sibbald hereby declines to grant a trademark license to "Bacula"
+			     pursuant to AGPLv3, Section 7(e) without a separate agreement with Kern
+			     Sibbald.
+			</p>
+			<p>
+			  2. Pursuant to AGPLv3, Section 7(a), in addition to the warranty and
+			     liability disclaimers already found in AGPLv3, the copyright holders
+			     specifically disclaim any liability for accusations of patent
+			     infringement by any third party.
+			</p>
+			<p>
+			  3. Pursuant to AGPLv3, Section 7(b), the portions of the file AUTHORS that
+			     are deemed to be specified reasonable legal notices and/or author
+			     attributions shall be preserved in redistribution of source code and/or
+			     modifications thereof. Furthermore, when the following notice appears in
+			     a source code file, it must be preserved when source code is conveyed
+			     and/or propagated:
+			</p>
+			<p>
+			   Bacula(R) - The Network Backup Solution
+			</p>
+			<p>
+			   Copyright (C) 2000-2017 Kern Sibbald
+			</p>
+			<p>
+			   The original author of Bacula is Kern Sibbald, with contributions
+			   from many others, a complete list can be found in the file AUTHORS.
+			</p>
+			<p>
+			   You may use this file and others of this release according to the
+			   license defined in the LICENSE file, which includes the Affero General
+			   Public License, v3.0 ("AGPLv3") and some additional permissions and
+			   terms pursuant to its AGPLv3 Section 7.
+			</p>
+			<p>
+			   This notice must be preserved when any source code is conveyed
+			   and/or propagated.
+			</p>
+			<p>
+			   Bacula(R) is a registered trademark of Kern Sibbald.
+			</p>
+			<p>
+			Additional Permissions on the work licensed herein, pursuant to Section 7 of
+			AGPLv3 are as follows:
+			</p>
+			<p>
+			1. As a special exception to the AGPLv3, the copyright holders give
+			   permission to link the code of its release of Bacula with the OpenSSL
+			   project's "OpenSSL" library (or with modified versions of it that use the
+			   same license as the "OpenSSL" library), and distribute the linked
+			   executables.  You must follow the requirements of AGPLv3 in all respects
+			   for all of the code used other than "OpenSSL".
+			</p>
+			<p>
+			2. As a special exception to the AGPLv3, the copyright holders give
+			   permission to link the code of its release of the Bacula Win32 File daemon
+			   with the Microsoft supplied Volume Shadow Copy (VSS) libraries and
+			   distribute the linked executables.  You must follow the requirements of
+			   the AGPLv3 in all respects for all of the code used other than for the
+			   Microsoft VSS code.
+			</p>
+			<p>
+			If you want to fork Bacula, please read the file LICENSE-FAQ.
+			</p>
+		</text>
+	</exception>
+</SPDXLicenseCollection>

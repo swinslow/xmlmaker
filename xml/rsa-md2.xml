@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="rsa-md2"
+		name="RSA Data Security MD2"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			License to copy and use this software is granted for non-commercial Internet Privacy-Enhanced Mail provided that it is identified as the "RSA Data Security, Inc. MD2 Message Digest Algorithm" in all material mentioning or referencing this software or this function.
+			</p>
+			<p>
+			RSA Data Security, Inc. makes no representations concerning either the merchantability of this software or the suitability of this software for any particular purpose. It is provided "as is" without express or implied warranty of any kind.
+			</p>
+			<p>
+			These notices must be retained in any copies of any part of this documentation and/or software.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

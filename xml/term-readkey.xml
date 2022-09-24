@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="term-readkey"
+		name="Term Readkey License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Unlimited distribution and/or modification is allowed as long as this copyright
+			notice remains intact.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

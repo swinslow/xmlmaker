@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="codesourcery-2004"
+		name="CodeSourcery 2004"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Permission to use, copy, modify, and distribute this file
+			for any purpose is hereby granted without fee, provided that
+			the above copyright notice and this notice appears in all
+			copies.
+			</p>
+			<p>
+			This file is distributed WITHOUT ANY WARRANTY; without even the implied
+			warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

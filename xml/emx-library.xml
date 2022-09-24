@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="emx-library"
+		name="EMX Library License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			The emx libraries are not distributed under the GPL.  Linking an
+			application with the emx libraries does not cause the executable
+			to be covered by the GNU General Public License.  You are allowed
+			to change and copy the emx library sources if you keep the copyright
+			message intact.  If you improve the emx libraries, please send your
+			enhancements to the emx author (you should copyright your
+			enhancements similar to the existing emx libraries).
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

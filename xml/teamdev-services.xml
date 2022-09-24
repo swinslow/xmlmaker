@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="teamdev-services"
+		name="TeamDev Services License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			https://www.teamdev.com/services
+			</p>
+			<p>
+			TeamDev
+			Connect with Us
+			</p>
+			<p>
+			email: sales@teamdev.com 
+			phone: +380 57 766–4300 
+			Google+: http://google.com/+TeamDev 
+			LinkedIn: http://www.linkedin.com/company/teamdev-ltd 
+			Facebook: https://www.facebook.com/TeamDev 
+			Twitter: http://twitter.com/TeamDev
+			</p>
+			<p>
+			Email us at sales@teamdev.com to request the estimate for your app.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="mit-nagy"
+		name="MIT Szabolcs Nagy Variant"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>https://git.musl-libc.org/cgit/musl/commit/src/prng/random.c?id=1569f396bb76e9d54f6c4492ed6778e37b87bc70</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			Permission to use, copy, modify, and/or distribute this code
+			for any purpose with or without fee is hereby granted.
+			There is no warranty.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

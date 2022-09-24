@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="lumisoft-mail-server"
+		name="LumiSoft Mail Server License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			General usage terms:
+			</p>
+			<p>
+			  *) If you use/redistribute compiled binary, there are no restrictions.
+			     You can use it in any project, commercial and no-commercial.
+			</p>
+			<p>
+			  *) It's allowed to complile source code parts to your application,
+			     but then you may not rename class names and namespaces.
+			</p>
+			<p>
+			  *) Anything is possible, if special agreement between LumiSoft.
+			</p>
+			<p>
+			THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+			INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+			PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE 
+			FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, 
+			ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="wol"
+		name="Wide Open License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			* The Wide Open License (WOL)
+			*
+			* Permission to use, copy, modify, distribute and sell this software and its
+			* documentation for any purpose is hereby granted without fee, provided that
+			* the above copyright notice and this license appear in all source copies. 
+			* THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT EXPRESS OR IMPLIED WARRANTY OF
+			* ANY KIND. See http://www.dspguru.com/wide-open-license for more information.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="takuya-ooura"
+		name="Takuya OOURA License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			You may use, copy, modify and distribute this code for any purpose (include
+			commercial use) and without fee. Please refer to this package when you modify
+			this code.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

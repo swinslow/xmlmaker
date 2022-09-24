@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="dennis-ferguson"
+		name="Dennis Ferguson License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>http://web.mit.edu/jhawk/mnt/spo/netbsd/src/domestic/dist/krb5/src/lib/crypto/des/f_cbc.c</crossRef>
+			
+			<crossRef>http://web.mit.edu/jhawk/mnt/spo/netbsd/src/domestic/dist/krb5/src/lib/des425/pcbc_encrypt.c</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			Commercial use is permitted only if products which are derived from or include
+			this software are made available for purchase and/or use in Canada. 
+			Otherwise, redistribution and use in source and binary forms are permitted.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

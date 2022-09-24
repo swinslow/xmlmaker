@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="broadcom-confidential"
+		name="Broadcom Confidential"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			No portions of this material may be reproduced in any form without the written permission of:
+			      Broadcom Corporation
+			       16251 Laguna Canyon Road
+			         Irvine, California  92618
+			All information contained in this document is Broadcom Corporation company private, proprietary, and trade secret.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

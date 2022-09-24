@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="marvell-firmware-2019"
+		name="Marvell Firmware License 2019"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Redistribution and use in binary form is permitted provided that the following
+			conditions are met:
+			</p>
+			<p>
+			1. Redistributions must reproduce the above copyright notice, this list of
+			conditions and the following disclaimer in the documentation and/or other
+			materials provided with the distribution.
+			</p>
+			<p>
+			2. Redistribution and use shall be used only with Marvell silicon products.
+			Any other use, reproduction, modification, translation, or compilation of the
+			Software is prohibited.
+			</p>
+			<p>
+			3. No reverse engineering, decompilation, or disassembly is permitted.
+			</p>
+			<p>
+			TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THIS SOFTWARE IS PROVIDED
+			“AS IS” WITHOUT WARRANTY OF ANY KIND, INCLUDING, WITHOUT LIMITATION, ANY EXPRESS
+			OR IMPLIED WARRANTIES OF MERCHANTABILITY, ACCURACY, FITNESS OR SUFFICIENCY FOR A
+			PARTICULAR PURPOSE, SATISFACTORY QUALITY, CORRESPONDENCE WITH DESCRIPTION, QUIET
+			ENJOYMENT OR NON-INFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS.
+			MARVELL, ITS AFFILIATES AND THEIR SUPPLIERS DISCLAIM ANY WARRANTY THAT THE
+			DELIVERABLES WILL OPERATE WITHOUT INTERRUPTION OR BE ERROR-FREE.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

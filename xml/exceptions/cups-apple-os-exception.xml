@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<exception licenseId="cups-apple-os-exception"
+		name="CUPS Apple OS Exception to GPL and LGPL"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			In addition, as the copyright holder of CUPS, Apple Inc. grants
+			the following special exceptions:
+			</p>
+			<p>
+			     1. Apple Operating System Development License Exception;
+			</p>
+			<p>
+				a. Software that is developed by any person or entity
+				   for an Apple Operating System ("Apple OS-Developed
+				   Software"), including but not limited to Apple and
+				   third party printer drivers, filters, and backends
+				   for an Apple Operating System, that is linked to the
+				   CUPS imaging library or based on any sample filters
+				   or backends provided with CUPS shall not be
+				   considered to be a derivative work or collective work
+				   based on the CUPS program and is exempt from the
+				   mandatory source code release clauses of the GNU GPL.
+				   You may therefore distribute linked combinations of
+				   the CUPS imaging library with Apple OS-Developed
+				   Software without releasing the source code of the
+				   Apple OS-Developed Software. You may also use sample
+				   filters and backends provided with CUPS to develop
+				   Apple OS-Developed Software without releasing the
+				   source code of the Apple OS-Developed Software.
+			</p>
+			<p>
+				b. An Apple Operating System means any operating system
+				   software developed and/or marketed by Apple Inc.,
+				   including but not limited to all existing releases and
+				   versions of Apple's Darwin, OS X, and OS X Server
+				   products and all follow-on releases and future
+				   versions thereof.
+			</p>
+			<p>
+				c. This exception is only available for Apple
+				   OS-Developed Software and does not apply to software
+				   that is distributed for use on other operating
+				   systems.
+			</p>
+			<p>
+				d. All CUPS software that falls under this license
+				   exception have the following text at the top of each
+				   source file:
+			</p>
+			<p>
+				     This file is subject to the Apple OS-Developed
+				     Software exception.
+			</p>
+			<p>
+			     2. OpenSSL Toolkit License Exception;
+			</p>
+			<p>
+				a. Apple Inc. explicitly allows the compilation and
+				   distribution of the CUPS software with the OpenSSL
+				   Toolkit.
+			</p>
+			<p>
+			No developer is required to provide these exceptions in a
+			derived work.
+			</p>
+		</text>
+	</exception>
+</SPDXLicenseCollection>

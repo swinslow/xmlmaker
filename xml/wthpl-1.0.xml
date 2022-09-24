@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="wthpl-1.0"
+		name="DO WHAT THE HELL YOU WANT TO PUBLIC LICENSE 1.0"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			DO WHAT THE HELL YOU WANT TO PUBLIC LICENSE
+			                    Version 1.0.0, October 2014
+			</p>
+			<p>
+			            DO WHAT THE HELL YOU WANT TO PUBLIC LICENSE
+			   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+			</p>
+			<p>
+			  0. You just DO WHAT THE HELL YOU WANT TO.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

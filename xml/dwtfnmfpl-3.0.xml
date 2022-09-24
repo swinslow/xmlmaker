@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="dwtfnmfpl-3.0"
+		name="DWTFNMFPL-3.0"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			This project is licensed under the terms of the
+			DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE, version 3,
+			as it follows:
+			</p>
+			<p>
+			0. You just DO WHAT THE FUCK YOU WANT TO.
+			</p>
+			<p>
+			1. Do not hold the author(s), creator(s), developer(s) or
+			   distributor(s) liable for anything that happens or goes wrong
+			with your use of the work.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

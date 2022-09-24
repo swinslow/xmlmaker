@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="kevlin-henney"
+		name="Kevlin Henney License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Permission to use, copy, modify, and distribute this software and its
+			documentation for any purpose is hereby granted without fee, provided
+			that this copyright and permissions notice appear in all copies and
+			derivatives.
+			</p>
+			<p>
+			This software is supplied "as is" without express or implied warranty.
+			</p>
+			<p>
+			But that said, if there are any problems please get in touch.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

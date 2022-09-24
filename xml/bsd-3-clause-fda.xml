@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="bsd-3-clause-fda"
+		name="BSD 3-Clause FDA"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Redistribution and use in source and binary forms, with or without
+			modification, are permitted provided that the following conditions are met:
+			</p>
+			<p>
+			* Redistributions of source code must retain the above notice, this list of
+			  conditions and the following disclaimer.
+			</p>
+			<p>
+			* Redistributions in binary form must reproduce the above notice, this list of
+			  conditions and the following disclaimer in the documentation and/or other
+			  materials provided with the distribution.
+			</p>
+			<p>
+			* Neither the name of the United States Government, nor the 
+			  U.S. Food and Drug Administration (FDA), nor the names of its
+			  contributors may be used to endorse or promote products derived from
+			  this software without specific prior written permission.
+			</p>
+			<p>
+			This program is distributed in the hope that it will be useful. Responsibility
+			for the use of the system and interpretation of documentation and results lies
+			solely with the user. In no event shall FDA be liable for direct, indirect,
+			special, incidental, or consequential damages resulting from the use, misuse,
+			or inability to use the system and accompanying documentation. Third parties'
+			use of or acknowledgment of the system does not in any way represent that
+			FDA endorses such third parties or expresses any opinion with respect to their
+			statements. 
+			</p>
+			<p>
+			This program is free software: you can redistribute it and/or modify it
+			under the terms of the included License.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

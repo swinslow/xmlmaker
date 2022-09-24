@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<exception licenseId="bison-exception-2.0"
+		name="Bison exception to GPL 2.0 or later"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			As a special exception, when this file is copied by Bison into a Bison output file, you may use that output file without restriction. This special exception was added by the Free Software Foundation in version 1.24 of Bison.
+			</p>
+		</text>
+	</exception>
+</SPDXLicenseCollection>

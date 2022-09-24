@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="freebsd-boot"
+		name="FreeBSD Boot"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>http://freebsd.active-venture.com/FreeBSD-srctree/newsrc/boot/i386/boot2/boot2.c.html</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			Redistribution and use in source and binary forms are freely
+			permitted provided that the above copyright notice and this
+			paragraph and the following disclaimer are duplicated in all
+			such forms.
+			</p>
+			<p>
+			This software is provided "AS IS" and without any express or
+			implied warranties, including, without limitation, the implied
+			warranties of merchantability and fitness for a particular
+			purpose.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

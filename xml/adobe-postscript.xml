@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="adobe-postscript"
+		name="Adobe PostScript License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Patents Pending
+			</p>
+			<p>
+			NOTICE: All information contained herein is the property
+			of Adobe Systems Incorporated.
+			</p>
+			<p>
+			Permission is granted for redistribution of this file
+			provided this copyright notice is maintained intact and
+			that the contents of this file are not altered in any
+			way from its original form.
+			</p>
+			<p>
+			PostScript and Display PostScript are trademarks of
+			Adobe Systems Incorporated which may be registered in
+			certain jurisdictions.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

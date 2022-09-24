@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="script-asylum"
+		name="Script Asylum License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Use of these materials are limited to personal and commercial use as long as
+			long as credits are left intact. Modification of the original material is
+			permitted as long as credits for the original developer(s) are left intact and
+			permission is granted by the developer(s).
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

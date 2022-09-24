@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="xxd"
+		name="xxd License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Distribute freely and credit me,
+			make money and share with me,
+			lose money and don't ask me.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

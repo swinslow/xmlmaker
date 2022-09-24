@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="mod-dav-1.0"
+		name="mod_dav License Agreement v1"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>http://www.webdav.org/mod_dav/</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			mod_dav License Agreement v1
+			</p>
+			<p>
+			The following text constitutes the license agreement for the mod_dav software.
+			</p>
+			<p>
+			Note: the copyright years were updated on February 3rd, 2000 and January 19th, 2001. No other changes were made to the license.
+			</p>
+			<p>
+			Copyright © 1998-2001 Greg Stein. All rights reserved.
+			</p>
+			<p>
+			Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+			</p>
+			<p>
+			1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+			</p>
+			<p>
+			2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+			</p>
+			<p>
+			3. All advertising materials mentioning features or use of this software must display the following acknowledgment:
+			</p>
+			<p>
+			This product includes software developed by Greg Stein <gstein@lyra.org> for use in the mod_dav module for Apache (http://www.webdav.org/mod_dav/).
+			</p>
+			<p>
+			4. Products derived from this software may not be called "mod_dav" nor may "mod_dav" appear in their names without prior written permission of Greg Stein. For written permission, please contact gstein@lyra.org.
+			</p>
+			<p>
+			5. Redistributions of any form whatsoever must retain the following acknowledgment:
+			</p>
+			<p>
+			This product includes software developed by Greg Stein <gstein@lyra.org> for use in the mod_dav module for Apache (http://www.webdav.org/mod_dav/).
+			</p>
+			<p>
+			THIS SOFTWARE IS PROVIDED BY GREG STEIN ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL GREG STEIN OR THE SOFTWARE'S CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+			</p>
+			<p>
+			Greg Stein 
+			Last modified: Thu Feb 3 17:34:42 PST 2000
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

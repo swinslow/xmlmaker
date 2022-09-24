@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<exception licenseId="guile-exception-2.0"
+		name="GUILE exception to GPL 2.0"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			The exception is that, if you link the GUILE library with other files to produce
+			an executable, this does not by itself cause the resulting executable to be
+			covered by the GNU General Public License. Your use of that executable is in no
+			way restricted on account of linking the GUILE library code into it.
+			</p>
+		</text>
+	</exception>
+</SPDXLicenseCollection>

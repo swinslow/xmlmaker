@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="epaperpress"
+		name="ePaperPress License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Permission to reproduce portions of this document is given provided the web site
+			listed below is referenced. No additional restrictions apply. Source code, when
+			part of a software project, may be used freely without reference to the author.
+			</p>
+			<p>
+			Tom Niemann
+			Portland, Oregon
+			epaperpress.com
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

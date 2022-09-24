@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="unlimited-binary-linking"
+		name="Unlimited Binary Linking Exception"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			As a special exception, you may use, copy, link, modify and distribute
+			under the user's own terms, binary object code versions of works based
+			on the library.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

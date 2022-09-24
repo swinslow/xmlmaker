@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="ian-kaplan"
+		name="Ian Kaplan License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Use of this program, for any purpose, is granted the author,
+			Ian Kaplan, as long as this copyright notice is included in
+			the source code or any source code derived from this program.
+			The user assumes all responsibility for using this code.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

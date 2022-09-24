@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="scribbles"
+		name="Scribbles Demos Recognizer Notice"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Copying or modifying this code for any purpose is permitted, provided that this
+			copyright notice is preserved in its entirety in all copies or modifications
+			</p>
+			<p>
+			COMPAQ COMPUTER CORPORATION MAKES NO WARRANTIES, EXPRESSED OR IIMPLIED, AS TO
+			THE USEFULNESS OR CORRECTNESS OF THIS CODE.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

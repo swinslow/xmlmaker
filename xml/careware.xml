@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="careware"
+		name="Careware License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			CAREWARE LICENSE
+			</p>
+			<p>
+			This script is released as "CAREWARE", it may be freely distributed, used,
+			modified and whatever, provided that the user, at least once per use, performs
+			ANY of the following
+			</p>
+			<p>
+			1 - Smiles at somebody/something
+			</p>
+			<p>
+			2 - Hugs or pats on the shoulder a friend/colleague/pet/furry little creature from Alpha Centauri
+			</p>
+			<p>
+			3 - Acts nicely towards a friend/foreigner/alien/any other living being
+			</p>
+			<p>
+			4 - Kisses his/her girlfriend/wife/boyfriend/husband/any other living being (de gustibus...)
+			</p>
+			<p>
+			5 - Feels happy even without apparent reason
+			</p>
+			<p>
+			6 - Stops whining for an hour, a day, a week, your choice
+			</p>
+			<p>
+			Important Note: if you don't like this idea, just ignore it -- you can have this anyway.
+			</p>
+			<p>
+			That's one way to distinguish the world of ideas from the rest of human history:
+			</p>
+			<p>
+			you can disregard an idea ...
+			</p>
+			<p>
+			...and no one knocks on your door at midnight.
+			</p>
+			<p>
+			(Unless it's your neighbour in need of a cup of sugar), in which case you MAY act NON-nicely
+			</p>
+			<p>
+			
+			STANDARD DISCLAIMER
+			</p>
+			<p>
+			Though every reasonable effort has been made in testing this script, the Author
+			accepts no liability whatsoever. This script may or may not do whatever it is
+			supposed to do, it could even possibly completely destroy your software,
+			hardware and set your house/office to fire.
+			</p>
+			<p>
+			No warranty implied, not even that of fitness for any particular purpose apart
+			taking up a little bit of your hard disk space.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

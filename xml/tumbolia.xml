@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="tumbolia"
+		name="Tumbolia Public License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Tumbolia Public License
+			</p>
+			<p>
+			Copyright 2013, Paul Davis <paul.joseph.davis@gmail.com>
+			</p>
+			<p>
+			Copying and distribution of this file, with or without modification, are
+			permitted in any medium without royalty provided the copyright notice and this
+			notice are preserved.
+			</p>
+			<p>
+			TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+			</p>
+			<p>
+			  0. opan saurce LOL
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

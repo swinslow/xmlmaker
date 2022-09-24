@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="iso-recorder"
+		name="ISO Recorder License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			This utility is free for non-commercial (personal) use. Other types of use
+			should be discussed with the author (a very reasonable person) - see the
+			contact information section. Author shall not be liable for any damage resulting
+			from the use of this utility. All rights are reserved. 
+			4. Contact information Problems should be reported to isorecorder@alexfeinman.com
+			To discuss licensing issues please e-mail to Alex Feinman
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

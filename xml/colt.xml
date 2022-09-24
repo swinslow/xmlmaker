@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="colt"
+		name="Colt License Agreement"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>http://acs.lbl.gov/software/colt/license.html</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			Colt License Agreement
+			</p>
+			<p>
+			http://acs.lbl.gov/software/colt/license.html
+			</p>
+			<p>
+			Packages cern.colt* , cern.jet*, cern.clhep
+			</p>
+			<p>
+			Copyright (c) 1999 CERN - European Organization for Nuclear Research.
+			</p>
+			<p>
+			Permission to use, copy, modify, distribute and sell this software and its
+			documentation for any purpose is hereby granted without fee, provided that the
+			above copyright notice appear in all copies and that both that copyright notice
+			and this permission notice appear in supporting documentation. CERN makes no
+			representations about the suitability of this software for any purpose. It is
+			provided "as is" without expressed or implied warranty.
+			</p>
+			<p>
+			Packages hep.aida.* Written by Pavel Binko, Dino Ferrero Merlino, Wolfgang
+			Hoschek, Tony Johnson, Andreas Pfeiffer, and others. Check the FreeHEP home page
+			for more info. Permission to use and/or redistribute this work is granted under
+			the terms of the LGPL License, with the exception that any usage related to
+			military applications is expressly forbidden. The software and documentation
+			made available under the terms of this license are provided with no warranty.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

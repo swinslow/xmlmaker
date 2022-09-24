@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="commercial-license"
+		name="Commercial License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			This component is licensed under a commercial contract from the supplier.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

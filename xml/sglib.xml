@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="sglib"
+		name="Sglib License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Basically, I only care that you do not remove the Copyright notice from the
+			source code when using Sglib.
+			</p>
+			<p>
+			More precisely: you can use Sglib or its derivative forms (under the condition
+			that the Copyright notice is preserved) in any project, whether commercial or
+			not, free of charges. In particular, you can use Sglib under the terms of any
+			license defined as an open source license by the Open Source Initiative
+			(see http://www.opensource.org/). This includes most common open source licenses
+			such as the BSD license and GNU GPL.
+			</p>
+			<p>
+			If you need to use sglib under any particular license conditions, contact the
+			author.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

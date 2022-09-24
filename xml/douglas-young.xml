@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="douglas-young"
+		name="Douglas Young License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			Permission to use, copy, modify, and distribute this software for any purpose
+			except publication and without fee is hereby granted, provided that the above
+			copyright notice appear in all copies of the software.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

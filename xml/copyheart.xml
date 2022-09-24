@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="copyheart"
+		name="Copyheart"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>http://copyheart.org</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			♡ Copying is an act of love. Please copy.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

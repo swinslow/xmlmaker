@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="html5"
+		name="HTML 5 specification License"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<text>
+			<p>
+			You are granted a license to use, reproduce and create derivative works of this document.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>

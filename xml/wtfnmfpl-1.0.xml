@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPDXLicenseCollection xmlns="http://www.spdx.org/license">
+	<license licenseId="wtfnmfpl-1.0"
+		name="WTFNMFPL-1.0"
+		isOsiApproved="false"
+		listVersionAdded="3.20">
+		
+		<crossRefs>
+			
+			<crossRef>https://github.com/adversary-org/wtfnmf/blob/master/COPYING.WTFNMFPL</crossRef>
+			
+		</crossRefs>
+		
+		<text>
+			<p>
+			DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE
+			                    Version 1, October 2013
+			</p>
+			<p>
+			 Copyright (C) 2013 Ben McGinnes <ben@adversary.org>
+			</p>
+			<p>
+			 Everyone is permitted to copy and distribute verbatim or modified
+			 copies of this license document, and changing it is allowed as long
+			 as the name is changed.
+			</p>
+			<p>
+			   DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE
+			   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+			</p>
+			<p>
+			  0. You just DO WHAT THE FUCK YOU WANT TO.
+			</p>
+			<p>
+			  1. Do not hold the author(s), creator(s), developer(s) or
+			     distributor(s) liable for anything that happens or goes wrong
+			     with your use of the work.
+			</p>
+		</text>
+	</license>
+</SPDXLicenseCollection>
